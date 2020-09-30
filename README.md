@@ -9,3 +9,4 @@ Done!
 Example
 - [Imaapreet Kaur](https://github.com/Imaanpreet)
 Note: If you're still having trouble, follow this simple guide step-by-step.
+- [Soumya Ranjan Bharati](https://github.com/Soumya-Ranjan-Bharti)
